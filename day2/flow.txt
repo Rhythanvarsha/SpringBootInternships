@@ -1,4 +1,0 @@
-tell to contrller that u dont do anything
-give flow to contrller for access
-
-main->controller->service
